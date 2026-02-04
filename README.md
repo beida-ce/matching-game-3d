@@ -30,8 +30,5 @@ You can play the game directly here:
 2. Open the project in Unity Editor.
 3. Load the main scene and build/run the game.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Thanks to the course instructors at İzmir Bakırçay University for guidance and provided assets.
