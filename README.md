@@ -8,7 +8,7 @@ The game is a simple 3D matching game where players drag objects from the game a
 ## 🛠️ Technologies Used
 - **Unity** (version 2022.3.50f1 or higher)
 - **C#** for scripting
-- **Unity 3D Assets & UI** (provided by the course)
+- **Unity 3D Assets & UI** 
 - **Git & GitHub** for version control
 
 ## 🎯 Gameplay Features
