@@ -26,7 +26,7 @@ You can play the game directly here:
 - Unity Hub and Unity Editor (2022.3.50f1 or compatible version)
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/yourusername/unity-matching-game.git`
+1. Clone the repository: `git clone https://github.com/beidowski/unity-matching-game.git`
 2. Open the project in Unity Editor.
 3. Load the main scene and build/run the game.
 
